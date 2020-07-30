@@ -1,0 +1,35 @@
+[
+    {
+        "correo": {
+            "id": "provinter",
+            "nombre": "Provinter",
+            "telefono": "(011) 5357-3093"
+        },
+        "localidad": "Ciudadela",
+        "provincia": "Buenos Aires",
+        "modalidad": "D",
+        "servicio": "N",
+        "tracking": [
+            {
+                "fecha": "28 de julio 10:28",
+                "mensaje": "El env\u00edo esta en el dep\u00f3sito del vendedor",
+                "codigo": "INIC"
+            },
+            {
+                "fecha": "29 de julio 12:16",
+                "mensaje": "El envio ya fue preparado por el vendedor",
+                "codigo": "PREC"
+            },
+            {
+                "fecha": "29 de julio 17:57",
+                "mensaje": "El envio esta listo para ser retirado por el correo",
+                "codigo": "DESC"
+            }
+            {
+                "fecha": "29 de julio 17:90",
+                "mensaje": "TEST",
+                "codigo": "DESC"
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "comando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "command-cron.js",
+  "scripts": {
+    "start": "node command-cron.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "rxjs": "^6.6.0"
+  }
+}
